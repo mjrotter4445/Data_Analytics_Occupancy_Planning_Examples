@@ -2,3 +2,4 @@
 Building Occupancy Planning Examples from CAD and Power BI Tools
 
 
+inserting here 
